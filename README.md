@@ -49,22 +49,30 @@
 
 # Exploratory Data Analysis
 What is the effect of salary on the employee?
-![image](https://user-images.githubusercontent.com/95860293/155239002-2bb64683-ecb4-475b-a667-7137e0b4d13a.png)
+
+![image](https://user-images.githubusercontent.com/95860293/155239387-01f510cf-99e5-49e8-aaf7-d80ae81dce1b.png)
+
 
 Many employees leave the company because theirsalary is low and medium
  
  Which department has the lowest salary?
-![image](https://user-images.githubusercontent.com/95860293/155239099-d148d4eb-7f9c-4304-93da-214c013cee39.png)
+
+![image](https://user-images.githubusercontent.com/95860293/155239418-45ba9dac-1191-48d0-9fea-27b1f5a395bb.png)
+
 
 sales, technical and support departments have low and medium salary
 
 What department most leave the company?  
-![image](https://user-images.githubusercontent.com/95860293/155239192-b2195dea-995e-4878-afe8-af86942cb464.png)
+
+![image](https://user-images.githubusercontent.com/95860293/155239476-bac9812f-7c01-4116-a7ac-71687f1169fa.png)
+
 
 The sales department has the most employees who leave the company, followed by the technical and support departments
 
-How satisfaction employees who left the company?
-![image](https://user-images.githubusercontent.com/95860293/155239252-4d13a1fa-04d9-48f8-b9d5-333cb7d6d119.png)
+How satisfaction employees who left the company?
+
+![image](https://user-images.githubusercontent.com/95860293/155239510-2fe79bd2-1571-4ea4-a973-5c5dcb1e3af3.png)
+
 
 The highest number of employees leaving a company with a low satisfaction rate is below 20%
 
