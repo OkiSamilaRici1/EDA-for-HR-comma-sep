@@ -1,15 +1,15 @@
 # Use Case Summary
-## Objective Statement: 
+  ## Objective Statement: 
 -  Get an insight about what is the effect of salary on the employee
 -  Get an insight into which department has the lowest salary
 -  Get an insight into what department most leave the company
 -  Get an insight about how satisfaction employees who left the company
 
-##Analytisc Technique:
+  ## Analytisc Technique:
 - Descriptive Analysis
 - Graph Analysis
 
-##Expected Outcome:
+  ## Expected Outcome:
 -  Know what is the effect of salary on the employee
 -  Know the name of a low-paying company department
 -  Know what department most leave the company
@@ -26,7 +26,7 @@
 # Data Understanding
 -  Source data by Kaggle
 -  Data Dictionary:   
--   -  statisfaction_level: satisfaction level at the job of an employee
+       -  statisfaction_level: satisfaction level at the job of an employee
        -  last_evaluation: rating between 0 to 1 received by an employee at this last evaluation
        -  number_project: number of projects an employee involved 
        -  average_monthly_hours: average number of hours in a month, spent by an employee at the company
@@ -40,12 +40,18 @@
 # Data Preparation
 -   Packages : Pandas, Numpy, Seaborn, Matplotlib
 -   Use HR comma sep dataset
-         -  All columns, except sales and salary columns are numeric.
-         -  Work_accident, left, and promotion_last_5years are binary (0,1).
-         -  The name of the sales column will be changed to Department.
+       -  All columns, except sales and salary columns are numeric.
+       -  Work_accident, left, and promotion_last_5years are binary (0,1).
+       -  The name of the sales column will be changed to Department.
 # Data Cleansing
 -   The dataset has no missing values, and the data type names are all correct.
 -   The dataset contains 3008 duplicated data points that must be removed.
+
+# Exploratory Data Analysis
+
+![image](https://user-images.githubusercontent.com/95860293/155238431-226ad6fa-f21f-4129-a9c4-8cc3495503e3.png)
+
+
 
 # Conclusion
 In the dataset, fewer employees are leaving the company, which is 1991 employees and 10000 employees remain in the company. 
