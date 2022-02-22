@@ -49,32 +49,25 @@
 
 # Exploratory Data Analysis
 What is the effect of salary on the employee?
+Many employees leave the company because their salary is low and medium
 
 ![image](https://user-images.githubusercontent.com/95860293/155239387-01f510cf-99e5-49e8-aaf7-d80ae81dce1b.png)
 
-
-Many employees leave the company because theirsalary is low and medium
- 
- Which department has the lowest salary?
+Which department has the lowest salary?
+sales, technical and support departments have low and medium salary
 
 ![image](https://user-images.githubusercontent.com/95860293/155239418-45ba9dac-1191-48d0-9fea-27b1f5a395bb.png)
 
-
-sales, technical and support departments have low and medium salary
-
 What department most leave the company?  
+The sales department has the most employees who leave the company, followed by the technical and support departments
 
 ![image](https://user-images.githubusercontent.com/95860293/155239476-bac9812f-7c01-4116-a7ac-71687f1169fa.png)
 
-
-The sales department has the most employees who leave the company, followed by the technical and support departments
-
 How satisfaction employees who left the company?
+The highest number of employees leaving a company with a low satisfaction rate is below 20%
 
 ![image](https://user-images.githubusercontent.com/95860293/155239510-2fe79bd2-1571-4ea4-a973-5c5dcb1e3af3.png)
 
-
-The highest number of employees leaving a company with a low satisfaction rate is below 20%
 
 # Conclusion
 In the dataset, fewer employees are leaving the company, which is 1991 employees and 10000 employees remain in the company. 
