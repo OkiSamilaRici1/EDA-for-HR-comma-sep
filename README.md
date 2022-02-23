@@ -65,8 +65,8 @@ How satisfaction employees who left the company?
 The highest number of employees leaving a company with a low satisfaction rate is below 20%
 
 # Conclusion
-In the dataset, fewer employees are leaving the company, which is 1991 employees and 10000 employees remain in the company. 
-The analysis focuses on employees leaving the company, with salaries having a significant impact on the number of          employees leaving the company. Employees who are paid more in the low and medium ranges are more likely to leave     the company.
-The lowest and medium salaries were found in the sales, technical, and support departments.
-The highest number of employees who left the company came from sales departments of 3239 employees, technical      departments of 2244 employees, and support departments of 1821 employees. 
-Employees who leave the company have  an average satisfaction rate of less than 50% and the highest number with the lowest satisfaction level is less than 20%.
+-   In the dataset, fewer employees are leaving the company, which is 1991 employees and 10000 employees remain in the company. 
+-   The analysis focuses on employees leaving the company, with salaries having a significant impact on the number of          employees leaving the company. Employees who are paid more in the low and medium ranges are more likely to leave     the company.
+-   The lowest and medium salaries were found in the sales, technical, and support departments.
+-   The highest number of employees who left the company came from sales departments of 3239 employees, technical      departments of 2244 employees, and support departments of 1821 employees. 
+-   Employees who leave the company have  an average satisfaction rate of less than 50% and the highest number with the lowest satisfaction level is less than 20%.
