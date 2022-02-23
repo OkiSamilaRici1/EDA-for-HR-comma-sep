@@ -1,15 +1,15 @@
 # Use Case Summary
-  ## Objective Statement: 
+ ## Objective Statement: 
 -  Get an insight about what is the effect of salary on the employee
 -  Get an insight into which department has the lowest salary
 -  Get an insight into what department most leave the company
 -  Get an insight about how satisfaction employees who left the company
 
-  ## Analytisc Technique:
+ ## Analytisc Technique:
 - Descriptive Analysis
 - Graph Analysis
 
-  ## Expected Outcome:
+ ## Expected Outcome:
 -  Know what is the effect of salary on the employee
 -  Know the name of a low-paying company department
 -  Know what department most leave the company
