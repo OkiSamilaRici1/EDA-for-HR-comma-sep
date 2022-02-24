@@ -75,6 +75,9 @@
 sales, technical and support departments have low and medium salary
 
 ## Correlation Heatmap
+![image](https://user-images.githubusercontent.com/95860293/155547498-b7488831-3a3f-4e1e-b2c5-31219bcdb841.png)
+
+
 - The correlation between an average_monthly_hour and number_project is 42%, indicating that the employee's length of time in the company (a matter of months) has a significant impact on the number of projects completed by the employee.
 - The correlation between number_project and last_evaluation by 35%, meaning  that the number of projects has a  high effect on employee evaluation.
 - The correlation between average_monthly_hour and last_evaluation is 34%, indicating that the employee's length of time in the company (month) has a high effect on                employee evaluation.
