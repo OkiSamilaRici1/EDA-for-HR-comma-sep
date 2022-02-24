@@ -53,7 +53,7 @@
 - Mean > Median in time_spend_company, indicating positively skewed.
 - Work_accident, left, and pomotion_last_5years, are binary/boolean columns since the value is 0 or 1.
 
-## Boxpot to detect outliers
+## Boxplot to detect outliers
 ![image](https://user-images.githubusercontent.com/95860293/155543955-65768001-8b16-41a7-9619-19d0f5d3bca1.png)
 
 - There are many outliers in time_spend_company, because the average employee worked at the company 2 to 5 year.
